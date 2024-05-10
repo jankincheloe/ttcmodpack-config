@@ -1,3 +1,7 @@
+// This JSON injects a recipe in Crafttweaker
+// Requires 1.16.5 To The Core Modpack ver 1.0
+// Place JSON in .zh File
+
 mods.extendedcrafting.TableCrafting.addShaped("1cad53d0-0ebf-4aa5-9ebe-f764fec2c925", <item:extendedcrafting:the_ultimate_ingot>, [
 	[<item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>, <item:minecraft:iron_ingot>], 
 	[<item:minecraft:iron_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:gold_ingot>, <item:minecraft:iron_ingot>], 
